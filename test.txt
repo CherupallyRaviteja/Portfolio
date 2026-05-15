@@ -1,0 +1,3004 @@
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import About from "./components/About"
+import Skills from "./components/Skills"
+import Projects from "./components/Projects"
+import Contact from "./components/Contact"
+
+function App() {
+  return (
+    <>
+      <Navbar />
+      <Hero />
+      <About />
+      <Skills />
+      <Projects />
+      <Contact />
+    </>
+  )
+}
+
+export default App
+
+
+/* DESKTOP */
+
+position: absolute;
+width: 2592px;
+height: 8251px;
+
+
+
+/* Navbar after scroll */
+
+position: absolute;
+width: 1920px;
+height: 66px;
+
+
+
+/* Rectangle 59 */
+
+position: absolute;
+width: 1920px;
+height: 66px;
+
+background: #0B0B0B;
+
+
+/* Group 1 */
+
+position: absolute;
+width: 637px;
+height: 46px;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 147px;
+height: 46px;
+
+background: #FFFFFF;
+border: 4px solid #FFFFFF;
+border-radius: 30px;
+
+
+/* CONTACT ME */
+
+position: absolute;
+width: 147px;
+height: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Portfolio */
+
+position: absolute;
+width: 147px;
+height: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* About me */
+
+position: absolute;
+width: 147px;
+height: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Skills */
+
+position: absolute;
+width: 147px;
+height: 46px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* tomaszgajda.pl - desktop */
+
+position: absolute;
+width: 1920px;
+height: 7156px;
+
+background: #FFFFFF;
+
+
+/* Hero */
+
+position: absolute;
+width: 1920px;
+height: 1022px;
+left: 0px;
+top: 0px;
+
+background: #000000;
+
+
+/* Designer/developer/entrepreneur etc */
+
+position: absolute;
+width: 1920px;
+height: 1022px;
+left: -2px;
+top: 0px;
+
+background: #D7D7D7;
+
+
+/* Hi, I am */
+
+position: absolute;
+width: 171px;
+height: 58px;
+left: 256px;
+top: 351px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Tomasz Gajda */
+
+position: absolute;
+width: 532px;
+height: 105px;
+left: 271px;
+top: 463px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 80px;
+line-height: 94px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Front-end Developer / UI Designer */
+
+position: absolute;
+width: 426px;
+height: 40px;
+left: 271px;
+top: 560px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 800;
+font-size: 25px;
+line-height: 29px;
+text-align: center;
+
+color: #919191;
+
+
+
+/* cib:mail-ru */
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 322px;
+top: 737.2px;
+
+
+
+/* Rectangle 67 */
+
+position: absolute;
+width: 1802.3px;
+height: 1373.99px;
+left: 752.77px;
+top: -192px;
+
+background: #000000;
+transform: rotate(9.67deg);
+
+
+/* Rectangle 68 */
+
+position: absolute;
+width: 61px;
+height: 56px;
+left: 271px;
+top: 726px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 69 */
+
+position: absolute;
+width: 61px;
+height: 56px;
+left: 455px;
+top: 726px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 61px;
+height: 56px;
+left: 363px;
+top: 726px;
+
+background: #C4C4C4;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Vector */
+
+position: absolute;
+left: 19.64%;
+right: 78.54%;
+top: 72.11%;
+bottom: 24.56%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.74%;
+right: 83.33%;
+top: 72.02%;
+bottom: 24.51%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 24.32%;
+right: 73.68%;
+top: 71.92%;
+bottom: 24.32%;
+
+background: #000000;
+
+
+/* image 17 */
+
+position: absolute;
+width: 783px;
+height: 877px;
+left: 860px;
+top: 145px;
+
+background: url(image);
+
+
+/* this is not my photo, but I dearly hope to get one just like this */
+
+position: absolute;
+width: 136px;
+height: 60px;
+left: 1191px;
+top: 956px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+text-align: justify;
+
+color: #000000;
+
+
+
+/* logo 1 */
+
+position: absolute;
+width: 59.67px;
+height: 50px;
+left: 272px;
+top: 72px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 2.07%;
+right: 1.83%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.07%;
+right: 8.18%;
+top: 0%;
+bottom: 0%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 39.46%;
+right: 1.83%;
+top: 37.61%;
+bottom: 25.34%;
+
+background: #000000;
+
+
+/* Navbar */
+
+position: absolute;
+width: 637px;
+height: 46px;
+left: 991px;
+top: 65px;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 147px;
+height: 46px;
+left: 1481px;
+top: 65px;
+
+background: #FFFFFF;
+border: 4px solid #FFFFFF;
+border-radius: 30px;
+
+
+/* CONTACT ME */
+
+position: absolute;
+width: 147px;
+height: 46px;
+left: 1481px;
+top: 65px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Portfolio */
+
+position: absolute;
+width: 147px;
+height: 46px;
+left: 1301px;
+top: 65px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* About me */
+
+position: absolute;
+width: 147px;
+height: 46px;
+left: 991px;
+top: 65px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Skills */
+
+position: absolute;
+width: 147px;
+height: 46px;
+left: 1146px;
+top: 65px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 21px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* ITberries */
+
+position: absolute;
+width: 1920px;
+height: 1878px;
+left: 0px;
+top: 1022px;
+
+
+
+/* Background */
+
+position: absolute;
+width: 1920px;
+height: 313px;
+left: 0px;
+top: -5px;
+
+background: linear-gradient(90.18deg, #1D1D1D 31.74%, #1D1D1D 90.49%, #1D1D1D 90.49%);
+
+
+/* Logo ITB */
+
+position: absolute;
+width: 388.05px;
+height: 575.27px;
+left: 1350px;
+top: -215px;
+
+transform: rotate(23.89deg);
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 129.68px;
+height: 213.5px;
+left: 1642.52px;
+top: -119.89px;
+
+background: linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+transform: matrix(0.65, 0.76, -0.73, 0.69, 0, 0);
+
+
+/* Ellipse 2 */
+
+position: absolute;
+width: 131.08px;
+height: 165.32px;
+left: 1572.12px;
+top: -98.4px;
+
+background: linear-gradient(0deg, #000000, #000000), linear-gradient(0deg, #000000, #000000), #000000;
+transform: matrix(1, -0.08, 0.03, 1, 0, 0);
+
+
+/* Rectangle 26 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 388.05px;
+height: 368.16px;
+left: 1350px;
+top: -25.63px;
+
+border: 18px solid #000000;
+transform: rotate(23.89deg);
+
+
+/* IT */
+
+position: absolute;
+width: 256.74px;
+height: 277.68px;
+left: 1445.9px;
+top: 43.84px;
+
+font-family: 'Varela';
+font-style: normal;
+font-weight: 400;
+font-size: 280px;
+line-height: 364px;
+display: flex;
+align-items: center;
+letter-spacing: 3.78667px;
+
+color: #000000;
+
+transform: rotate(23.89deg);
+
+
+/* Button */
+
+position: absolute;
+width: 139px;
+height: 32px;
+left: 102px;
+top: 226px;
+
+
+
+/* READ MORE */
+
+position: absolute;
+width: 139px;
+height: 25px;
+left: 102px;
+top: 233px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 9 */
+
+position: absolute;
+width: 32px;
+height: 0px;
+left: 241px;
+top: 226px;
+
+border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 10 */
+
+position: absolute;
+width: 32px;
+height: 0px;
+left: 102px;
+top: 226px;
+
+border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Paragraph */
+
+position: absolute;
+width: 1148px;
+height: 89px;
+left: 102px;
+top: 111px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 138.68%;
+/* or 21px */
+text-align: justify;
+
+color: #FFFFFF;
+
+
+
+/* Section Header */
+
+position: absolute;
+width: 363px;
+height: 63px;
+left: 102px;
+top: 49px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+letter-spacing: 0.18538em;
+
+color: #FFFFFF;
+
+
+
+/* About */
+
+position: absolute;
+width: 1920px;
+height: 3017px;
+left: 0px;
+top: 1330px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(26, 21, 21, 0) 0%, rgba(1, 1, 1, 0.16) 100%), #FFFFFF;
+mix-blend-mode: normal;
+
+
+/* Skills */
+
+position: absolute;
+width: 1004px;
+height: 1413px;
+left: 457px;
+top: 1442px;
+
+
+
+/* USING NOW: */
+
+position: absolute;
+width: 261px;
+height: 74px;
+left: 530px;
+top: 1442px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+display: flex;
+align-items: center;
+letter-spacing: 0.18538em;
+
+color: #000000;
+
+
+
+/* LEARNING: */
+
+position: absolute;
+width: 261px;
+height: 74px;
+left: 524px;
+top: 2115px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+display: flex;
+align-items: center;
+letter-spacing: 0.18538em;
+
+color: #000000;
+
+
+
+/* OTHER SKILLS: */
+
+position: absolute;
+width: 349px;
+height: 74px;
+left: 524px;
+top: 2518px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 37px;
+display: flex;
+align-items: center;
+letter-spacing: 0.18538em;
+
+color: #000000;
+
+
+
+/* html */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 481px;
+top: 1458px;
+
+
+
+/* html-5 1 */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 481px;
+top: 1458px;
+
+
+
+/* Group 12 */
+
+position: absolute;
+width: 84.21px;
+height: 100px;
+left: 535.02px;
+top: 1591px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.87%;
+right: 67.75%;
+top: 52.73%;
+bottom: 43.95%;
+
+background: #FF5722;
+
+
+/* Vector */
+
+position: absolute;
+left: 28.68%;
+right: 68.57%;
+top: 53.34%;
+bottom: 44.58%;
+
+background: #FAFAFA;
+
+
+/* Group 13 */
+
+position: absolute;
+width: 84.14px;
+height: 100px;
+left: 776.01px;
+top: 1591px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 40.42%;
+right: 55.2%;
+top: 52.73%;
+bottom: 43.95%;
+
+background: #2196F3;
+
+
+/* Vector */
+
+position: absolute;
+left: 41.22%;
+right: 56%;
+top: 53.34%;
+bottom: 44.58%;
+
+background: #FAFAFA;
+
+
+/* Vector */
+
+position: absolute;
+left: 52.65%;
+right: 40.75%;
+top: 52.74%;
+bottom: 43.95%;
+
+background: #CF649A;
+
+
+/* Group */
+
+position: absolute;
+left: 66.77%;
+right: 28.22%;
+top: 52.73%;
+bottom: 43.95%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 66.77%;
+right: 28.22%;
+top: 52.73%;
+bottom: 43.95%;
+
+background: #F7DF1E;
+
+
+/* Vector */
+
+position: absolute;
+left: 68.09%;
+right: 30.5%;
+top: 54.26%;
+bottom: 44.21%;
+
+background: #000000;
+
+
+/* Vector */
+
+position: absolute;
+left: 69.75%;
+right: 28.61%;
+top: 54.24%;
+bottom: 44.21%;
+
+background: #000000;
+
+
+/* css */
+
+position: absolute;
+width: 96.16px;
+height: 100px;
+left: 722px;
+top: 1479px;
+
+
+
+/* css 1 */
+
+position: absolute;
+width: 96.16px;
+height: 100px;
+left: 722px;
+top: 1479px;
+
+
+
+/* sass */
+
+position: absolute;
+width: 126.63px;
+height: 100px;
+left: 963px;
+top: 1479px;
+
+
+
+/* sass-1 1 */
+
+position: absolute;
+width: 126.63px;
+height: 100px;
+left: 963px;
+top: 1479px;
+
+
+
+/* js */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 1234px;
+top: 1479px;
+
+
+
+/* javascript-js-seeklogo.com 1 */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 1234px;
+top: 1479px;
+
+
+
+/* bootstrap */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 770px;
+top: 1825px;
+
+
+
+/* bootstrap-solid 1 */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 770px;
+top: 1825px;
+
+
+
+/* solid */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* bg */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #563D7C;
+
+
+/* B */
+
+position: absolute;
+left: 27.17%;
+right: 24.54%;
+top: 21.73%;
+bottom: 19.93%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.17%;
+right: 24.54%;
+top: 21.73%;
+bottom: 19.93%;
+
+background: #FFFFFF;
+
+
+/* git */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 1026px;
+top: 1825px;
+
+
+
+/* Git-Icon-1788C 1 */
+
+position: absolute;
+width: 96.24px;
+height: 100px;
+left: 1026px;
+top: 1825px;
+
+background: url(Git-Icon-1788C.png);
+
+
+/* figma */
+
+position: absolute;
+width: 69.49px;
+height: 100px;
+left: 1300px;
+top: 1826px;
+
+
+
+/* figma-1 1 */
+
+position: absolute;
+left: 67.71%;
+right: 28.67%;
+top: 60.52%;
+bottom: 36.16%;
+
+
+
+/* path0 fill */
+
+position: absolute;
+left: 0.01%;
+right: 50%;
+top: 66.67%;
+bottom: 0%;
+
+background: #0ACF83;
+
+
+/* path1 fill */
+
+position: absolute;
+left: 0.01%;
+right: 50%;
+top: 33.33%;
+bottom: 33.33%;
+
+background: #A259FF;
+
+
+/* path1 fill 1 */
+
+position: absolute;
+left: 0.01%;
+right: 50%;
+top: 0%;
+bottom: 66.67%;
+
+background: #F24E1E;
+
+
+/* path2 fill */
+
+position: absolute;
+left: 50%;
+right: 0.01%;
+top: 0%;
+bottom: 66.67%;
+
+background: #FF7262;
+
+
+/* path3 fill */
+
+position: absolute;
+left: 50%;
+right: 0.01%;
+top: 33.33%;
+bottom: 33.33%;
+
+background: #1ABCFE;
+
+
+/* HTML5 */
+
+position: absolute;
+width: 166px;
+height: 52px;
+left: 494px;
+top: 1708px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* CSS3 */
+
+position: absolute;
+width: 166px;
+height: 52px;
+left: 735px;
+top: 1708px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* SASS */
+
+position: absolute;
+width: 166px;
+height: 52px;
+left: 991px;
+top: 1708px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* JAVASCRIPT */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 1219px;
+top: 1708px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* TYPESCRIPT */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 1221px;
+top: 2392px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* REACT */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 457px;
+top: 1961px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* BOOTSTRAP */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 699px;
+top: 1961px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* GIT */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 954px;
+top: 1961px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* NODEJS */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 459px;
+top: 2392px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* MySQL */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 701px;
+top: 2392px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* MONGODB */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 956px;
+top: 2392px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* C */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 1219px;
+top: 2803px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* ANGIELSKI C1/C2 */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 457px;
+top: 2803px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* HISZPAŃSKI B1/B2 */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 699px;
+top: 2803px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* C++ */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 954px;
+top: 2803px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* FIGMA */
+
+position: absolute;
+width: 240px;
+height: 52px;
+left: 1219px;
+top: 1961px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.13538em;
+
+color: #000000;
+
+
+
+/* Group 14 */
+
+position: absolute;
+width: 105.8px;
+height: 99.46px;
+left: 524px;
+top: 1825px;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 27.29%;
+right: 67.2%;
+top: 60.49%;
+bottom: 36.21%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.61%;
+right: 67.5%;
+top: 60.69%;
+bottom: 36.41%;
+
+background: #53C1DE;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.81%;
+right: 67.71%;
+top: 60.83%;
+bottom: 36.55%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+position: absolute;
+left: 29.62%;
+right: 69.51%;
+top: 61.84%;
+bottom: 37.57%;
+
+background: #53C1DE;
+
+
+/* node */
+
+position: absolute;
+width: 85.48px;
+height: 100px;
+left: 534px;
+top: 2196px;
+
+
+
+/* nodejs-seeklogo.com 1 */
+
+position: absolute;
+width: 85.48px;
+height: 100px;
+left: 534px;
+top: 2196px;
+
+
+
+/* Group */
+
+position: absolute;
+left: 28.02%;
+right: 67.53%;
+top: 75.24%;
+bottom: 21.45%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 28.02%;
+right: 67.53%;
+top: 75.24%;
+bottom: 21.45%;
+
+background: #539E43;
+
+
+/* Vector */
+
+position: absolute;
+left: 55.06%;
+right: 42.77%;
+top: 75.28%;
+bottom: 21.86%;
+
+background: #10AA50;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.06%;
+right: 43.67%;
+top: 77.7%;
+bottom: 21.49%;
+
+background: #B8C4C2;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.13%;
+right: 42.77%;
+top: 75.3%;
+bottom: 21.9%;
+
+background: #12924F;
+
+
+/* Group */
+
+position: absolute;
+left: 67.08%;
+right: 27.71%;
+top: 75.31%;
+bottom: 21.38%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 67.08%;
+right: 27.71%;
+top: 75.31%;
+bottom: 21.38%;
+
+background: #007ACC;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 68.23%;
+right: 29.93%;
+top: 76.84%;
+bottom: 21.66%;
+
+background: #FFFFFF;
+transform: rotate(-180deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 70.2%;
+right: 28.12%;
+top: 76.82%;
+bottom: 21.65%;
+
+background: #FFFFFF;
+transform: matrix(1, 0, 0, -1, 0, 0);
+
+
+/* Vector */
+
+position: absolute;
+left: 40.31%;
+right: 54.32%;
+top: 75.24%;
+bottom: 21.45%;
+
+background: #00546B;
+
+
+/* mongo */
+
+position: absolute;
+width: 45.99px;
+height: 100px;
+left: 1051px;
+top: 2196px;
+
+
+
+/* MongoDB_Leaf_FullColor_RGB 1 */
+
+position: absolute;
+width: 45.99px;
+height: 100px;
+left: 1051px;
+top: 2196px;
+
+
+
+/* typescript-seeklogo.com 2 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 1284px;
+top: 2199px;
+
+
+
+/* image 17 */
+
+position: absolute;
+width: 89px;
+height: 100px;
+left: 1295px;
+top: 2674px;
+
+background: url(image.png);
+
+
+/* image 18 */
+
+position: absolute;
+width: 100px;
+height: 100px;
+left: 533px;
+top: 2674px;
+
+background: url(image);
+
+
+/* image 19 */
+
+position: absolute;
+width: 96.3px;
+height: 100px;
+left: 769px;
+top: 2674px;
+
+background: url(image.png);
+border-radius: 200px;
+
+
+/* image 20 */
+
+position: absolute;
+width: 88.91px;
+height: 100px;
+left: 1035px;
+top: 2675px;
+
+background: url(image);
+
+
+/* Section Header 2 */
+
+position: absolute;
+width: 404px;
+height: 107px;
+left: 756px;
+top: 1256px;
+
+
+
+/* SKILLS */
+
+position: absolute;
+width: 404px;
+height: 74px;
+left: 756px;
+top: 1272px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35538em;
+
+color: #000000;
+
+
+
+/* Rectangle 49 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 404px;
+height: 107px;
+left: 756px;
+top: 1256px;
+
+border: 8px solid #000000;
+
+
+/* separatorBlack 2 */
+
+position: absolute;
+width: 170px;
+height: 12px;
+left: 875px;
+top: 1124px;
+
+background: url(separatorBlack.png);
+
+
+/* Services */
+
+position: absolute;
+width: 1066px;
+height: 373px;
+left: 404px;
+top: 671px;
+
+
+
+/* Service 2 */
+
+position: absolute;
+width: 483px;
+height: 178px;
+left: 987px;
+top: 671px;
+
+
+
+/* I can design the site based on your needs and suggestions. I can also design the site from scratch and consult you during the job. */
+
+position: absolute;
+width: 431px;
+height: 104px;
+left: 1039px;
+top: 745px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 19px;
+text-align: justify;
+
+color: #000000;
+
+
+
+/* DEVELOPMENT */
+
+position: absolute;
+width: 277px;
+height: 74px;
+left: 1006px;
+top: 671px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.18538em;
+
+color: #000000;
+
+
+
+/* maintenance--v3 1 */
+
+position: absolute;
+width: 68.94px;
+height: 70px;
+left: 987px;
+top: 673px;
+
+background: url(maintenance--v3.png);
+background-blend-mode: luminosity;
+
+
+/* Service 1 */
+
+position: absolute;
+width: 516px;
+height: 177px;
+left: 404px;
+top: 671px;
+
+
+
+/* I can design the site based on your needs and suggestions. I can also design the site from scratch and consult you during the job. */
+
+position: absolute;
+width: 431px;
+height: 104px;
+left: 489px;
+top: 744px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 19px;
+text-align: justify;
+
+color: #000000;
+
+
+
+/* DESIGN */
+
+position: absolute;
+width: 277px;
+height: 74px;
+left: 404px;
+top: 671px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.18538em;
+
+color: #000000;
+
+
+
+/* 136378-200 1 */
+
+position: absolute;
+width: 61px;
+height: 64px;
+left: 452px;
+top: 676px;
+
+background: url(136378-200.png);
+background-blend-mode: luminosity;
+
+
+/* Service 3 */
+
+position: absolute;
+width: 487px;
+height: 182px;
+left: 698px;
+top: 862px;
+
+
+
+/* I can design the site based on your needs and suggestions. I can also design the site from scratch and consult you during the job. */
+
+position: absolute;
+width: 422px;
+height: 104px;
+left: 763px;
+top: 940px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 19px;
+text-align: justify;
+
+color: #000000;
+
+
+
+/* MAINTENANCE */
+
+position: absolute;
+width: 277px;
+height: 74px;
+left: 729px;
+top: 866px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 27px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.18538em;
+
+color: #000000;
+
+
+
+/* img_533288 1 */
+
+position: absolute;
+width: 80.21px;
+height: 64px;
+left: 698px;
+top: 862px;
+
+background: url(img_533288);
+background-blend-mode: luminosity;
+
+
+/* separatorBlack 1 */
+
+position: absolute;
+width: 170px;
+height: 12px;
+left: 875px;
+top: 551px;
+
+background: url(separatorBlack.png);
+
+
+/* Button */
+
+position: absolute;
+width: 139px;
+height: 32px;
+left: 889px;
+top: 434px;
+
+
+
+/* EXPLORE */
+
+position: absolute;
+width: 139px;
+height: 25px;
+left: 889px;
+top: 441px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 18px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Line 9 */
+
+position: absolute;
+width: 32px;
+height: 0px;
+left: 1028px;
+top: 434px;
+
+border: 2px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 10 */
+
+position: absolute;
+width: 32px;
+height: 0px;
+left: 889px;
+top: 434px;
+
+border: 2px solid #000000;
+transform: rotate(90deg);
+
+
+/* Paragraph */
+
+position: absolute;
+width: 763px;
+height: 47px;
+left: 579px;
+top: 320px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 138.68%;
+/* or 21px */
+text-align: center;
+
+color: #050505;
+
+
+
+/* Section Header */
+
+position: absolute;
+width: 404px;
+height: 107px;
+left: 758px;
+top: 142px;
+
+
+
+/* ABOUT ME */
+
+position: absolute;
+width: 404px;
+height: 74px;
+left: 758px;
+top: 158px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35538em;
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 404px;
+height: 107px;
+left: 758px;
+top: 142px;
+
+border: 8px solid #000000;
+
+
+/* Portfolio */
+
+position: absolute;
+width: 1920px;
+height: 1305px;
+left: 0px;
+top: 4347px;
+
+background: #1A1A1A;
+
+
+/* Section Header */
+
+position: absolute;
+width: 1920px;
+height: 321px;
+left: 0px;
+top: 0px;
+
+
+
+/* image 12 */
+
+position: absolute;
+width: 1920px;
+height: 321px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.32), rgba(0, 0, 0, 0.32)), url(image);
+
+
+/* PORTFOLIO */
+
+position: absolute;
+width: 482px;
+height: 74px;
+left: 719px;
+top: 123px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.43538em;
+
+color: #000000;
+
+
+
+/* Rectangle 48 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 482px;
+height: 107px;
+left: 719px;
+top: 107px;
+
+border: 8px solid #000000;
+
+
+/* Section Footer */
+
+position: absolute;
+width: 294px;
+height: 48px;
+left: 813px;
+top: 1246px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFBFB;
+
+
+
+/* Projects */
+
+position: absolute;
+width: 1920px;
+height: 802px;
+left: 0px;
+top: 433px;
+
+
+
+/* Project */
+
+position: absolute;
+width: 640px;
+height: 400px;
+left: 0px;
+top: 434px;
+
+background: url(_1120684-LR);
+
+
+/* Project */
+
+position: absolute;
+width: 640px;
+height: 400px;
+left: 1280px;
+top: 835px;
+
+background: url(_1120684-LR);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Project */
+
+position: absolute;
+width: 640px;
+height: 401px;
+left: 1280px;
+top: 433px;
+
+background: url(audi-auto-automobile-black-1461887);
+
+
+/* Rectangle 17 */
+
+position: absolute;
+width: 640px;
+height: 401px;
+left: 640px;
+top: 433px;
+
+background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url(wallpapersden.com_huawei-4k-stock-abstract_3840x2160);
+
+
+/* eatsome. */
+
+position: absolute;
+width: 482px;
+height: 74px;
+left: 719px;
+top: 597px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 127.9%;
+/* or 32px */
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.20538em;
+
+color: #FFFFFF;
+
+
+
+/* Project */
+
+position: absolute;
+width: 640px;
+height: 401px;
+left: 640px;
+top: 834px;
+
+background: url(audi-auto-automobile-black-1461887);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Project */
+
+position: absolute;
+width: 640px;
+height: 401px;
+left: 0px;
+top: 834px;
+
+background: url(wallpapersden.com_huawei-4k-stock-abstract_3840x2160);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* DEMO */
+
+position: absolute;
+width: 114px;
+height: 27px;
+left: 837px;
+top: 703px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.095em;
+
+color: #FFFBFB;
+
+
+
+/* Line 21 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 951px;
+top: 703px;
+
+border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 22 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 837px;
+top: 703px;
+
+border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* MORE */
+
+position: absolute;
+width: 114px;
+height: 27px;
+left: 968px;
+top: 703px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.095em;
+
+color: #FFFBFB;
+
+
+
+/* Line 23 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 1082px;
+top: 703px;
+
+border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* Line 24 */
+
+position: absolute;
+width: 27px;
+height: 0px;
+left: 968px;
+top: 703px;
+
+border: 2px solid #FFFFFF;
+transform: rotate(90deg);
+
+
+/* coded, designed */
+
+position: absolute;
+width: 134px;
+height: 38px;
+left: 893px;
+top: 574px;
+
+font-family: 'Montserrat';
+font-style: italic;
+font-weight: 600;
+font-size: 10px;
+line-height: 12px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.095em;
+
+color: #FFFFFF;
+
+
+
+/* Restaurant browsing in React.js (Using Yelp API) */
+
+position: absolute;
+width: 315px;
+height: 38px;
+left: 803px;
+top: 652px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 10px;
+line-height: 12px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: -0.015em;
+
+color: #FFFFFF;
+
+
+
+/* Filterbar */
+
+position: absolute;
+width: 587px;
+height: 48px;
+left: 667px;
+top: 353px;
+
+
+
+/* CODED */
+
+position: absolute;
+width: 149px;
+height: 48px;
+left: 885px;
+top: 353px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #7C7C7C;
+
+
+
+/* DESIGNED */
+
+position: absolute;
+width: 149px;
+height: 48px;
+left: 1068px;
+top: 353px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #7C7C7C;
+
+
+
+/* ALL */
+
+position: absolute;
+width: 149px;
+height: 48px;
+left: 691px;
+top: 353px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFBFB;
+
+
+
+/* Line 25 */
+
+position: absolute;
+width: 587px;
+height: 0px;
+left: 667px;
+top: 401px;
+
+border: 1px solid #AAAAAA;
+
+
+/* Line 26 */
+
+position: absolute;
+width: 201px;
+height: 0px;
+left: 667px;
+top: 401px;
+
+border: 1px solid #FFFFFF;
+
+
+/* Contact */
+
+position: absolute;
+width: 1920px;
+height: 1178px;
+left: 0px;
+top: 5652px;
+
+background: radial-gradient(50% 50% at 50% 50%, rgba(26, 21, 21, 0) 0%, rgba(0, 0, 0, 0.16) 100%), #FFFFFF;
+
+
+/* CONTACT */
+
+position: absolute;
+width: 367px;
+height: 74px;
+left: 776px;
+top: 158px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 38px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.35538em;
+
+color: #000000;
+
+
+
+/* Rectangle 35 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 367px;
+height: 107px;
+left: 776px;
+top: 142px;
+
+border: 8px solid #000000;
+
+
+/* Nulla in velit a metus rhoncus tempus. Nulla congue nulla vel sem varius finibus. Sed ornare sit amet lorem sed viverra. In vel urna quis libero viverra facilisis ut ac est. */
+
+position: absolute;
+width: 763px;
+height: 72px;
+left: 578px;
+top: 308px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 138.68%;
+/* or 21px */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 50 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 654px;
+top: 508px;
+
+background: #000000;
+
+
+/* Rectangle 51 */
+
+position: absolute;
+width: 5px;
+height: 609px;
+left: 654px;
+top: 551px;
+
+background: #000000;
+transform: rotate(-90deg);
+
+
+/* Rectangle 52 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 654px;
+top: 609px;
+
+background: #000000;
+
+
+/* Rectangle 53 */
+
+position: absolute;
+width: 5px;
+height: 609px;
+left: 654px;
+top: 652px;
+
+background: #000000;
+transform: rotate(-90deg);
+
+
+/* Rectangle 54 */
+
+position: absolute;
+width: 5px;
+height: 48px;
+left: 654px;
+top: 710px;
+
+background: #000000;
+
+
+/* Rectangle 55 */
+
+position: absolute;
+width: 5px;
+height: 609px;
+left: 654px;
+top: 753px;
+
+background: #000000;
+transform: rotate(-90deg);
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 5px;
+height: 184px;
+left: 654px;
+top: 819px;
+
+background: #000000;
+
+
+/* Rectangle 57 */
+
+position: absolute;
+width: 5px;
+height: 609px;
+left: 654px;
+top: 998px;
+
+background: #000000;
+transform: rotate(-90deg);
+
+
+/* ENTER YOUR NAME* */
+
+position: absolute;
+width: 205px;
+height: 46px;
+left: 673px;
+top: 509px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+color: #8B8B8B;
+
+
+
+/* ENTER YOUR EMAIL* */
+
+position: absolute;
+width: 205px;
+height: 45px;
+left: 674px;
+top: 611px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+color: #8B8B8B;
+
+
+
+/* PHONE NUMBER */
+
+position: absolute;
+width: 206px;
+height: 45px;
+left: 674px;
+top: 712px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+color: #8B8B8B;
+
+
+
+/* YOUR MESSAGE* */
+
+position: absolute;
+width: 206px;
+height: 46px;
+left: 674px;
+top: 819px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+letter-spacing: 0.04em;
+
+color: #8B8B8B;
+
+
+
+/* SUBMIT */
+
+position: absolute;
+width: 197px;
+height: 45px;
+left: 860px;
+top: 1065px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 20px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.1em;
+
+color: #000000;
+
+
+
+/* Line 17 */
+
+position: absolute;
+width: 45px;
+height: 0px;
+left: 1057px;
+top: 1065px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 18 */
+
+position: absolute;
+width: 45px;
+height: 0px;
+left: 860px;
+top: 1065px;
+
+border: 3px solid #000000;
+transform: rotate(90deg);
+
+
+/* Footer */
+
+position: absolute;
+width: 1920px;
+height: 326px;
+left: 0px;
+top: 6830px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 66 */
+
+position: absolute;
+width: 1920px;
+height: 326px;
+left: 0px;
+top: 0px;
+
+background: #1A1A1A;
+
+
+/* @2020 Tomasz Gajda All Rights Reserved. */
+
+position: absolute;
+width: 350px;
+height: 22px;
+left: 784px;
+bottom: 69px;
+
+font-family: 'Nunito';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 25px;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 858px;
+bottom: 135px;
+
+background: rgba(255, 255, 255, 0.9);
+
+
+/* Vector */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 916px;
+bottom: 134.74px;
+
+background: rgba(255, 255, 255, 0.9);
+
+
+/* Vector */
+
+position: absolute;
+width: 30px;
+height: 30px;
+left: 974px;
+bottom: 135px;
+
+background: rgba(255, 255, 255, 0.9);
+
+
+/* BACK TO TOP */
+
+position: absolute;
+width: 188px;
+height: 26px;
+left: 866px;
+top: 91px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+display: flex;
+align-items: center;
+text-align: center;
+letter-spacing: 0.18538em;
+
+color: #FFFFFF;
+
+
+
+/* ic:baseline-double-arrow */
+
+position: absolute;
+width: 15px;
+height: 15px;
+left: 952px;
+top: 69px;
+
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 39.58%;
+top: 14.58%;
+bottom: 27.08%;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 20.83%;
+right: 39.58%;
+top: 43.75%;
+bottom: -2.08%;
+
+background: #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 53.75%;
+right: 44.69%;
+top: 49.69%;
+bottom: 41.72%;
+
+background: #FFFFFF;
+
+
+/* separatorBlack 2 */
+
+position: absolute;
+width: 170px;
+height: 12px;
+left: 875px;
+top: 6026px;
+
+background: url(separatorBlack.png);
+
+
+/* DESKTOP */
+
+position: absolute;
+width: 2592px;
+height: 681px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 500px;
+line-height: 681px;
+/* identical to box height */
+
+color: #000000;
+

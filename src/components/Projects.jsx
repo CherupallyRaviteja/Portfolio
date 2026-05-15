@@ -11,7 +11,7 @@ function Projects() {
         "Sentence Transformers",
         "PyPDF"
       ],
-      link : "https://github.com/CherupallyRaviteja/RAG_chatbot"
+      link : "https://github.com/CherupallyRaviteja/AHRAGS"
     },
     {
       title: "Chatbot System for College Information Management",

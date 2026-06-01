@@ -6,7 +6,7 @@ function Hero() {
 
       <img
         src={pic}
-        className="w-56 md:w-64 rounded-full border border-white/10 shadow-2xl mb-8 mt-24 hover:scale-[1.02] transition duration-500"
+        className="w-72 h-72 rounded-full object-cover border border-white/10 shadow-2xl mb-8 mt-24 hover:scale-[1.02] transition duration-500"
       />
 
       <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 text-black">

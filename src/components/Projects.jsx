@@ -2,41 +2,33 @@ function Projects() {
   const projects = [
     {
       title: "Agentic Hybrid RAG System",
-      desc: "Built a Retrieval-Augmented Generation (RAG) system that allows users to upload documents and query them using natural language. The system processes documents, splits them into chunks, retrieves relevant sections, and generates accurate responses with document name and page references.",
-      tech: [
-        "Python",
-        "LangChain",
-        "Ollama",
-        "Vector Database",
-        "Sentence Transformers",
-        "PyPDF"
-      ],
+      desc: "Built a Retrieval-Augmented Generation (RAG) system that allows users to upload Word documents, PDFs or OCR data and query them using natural language. The system processes documents, splits them into chunks, retrieves relevant sections, and generates accurate responses with document name and page references. The solution improves information retrieval by combining vector search with language models to provide context-aware answers",
+      tech: ["Python","LangChain","Ollama","Vector Database","Sentence Transformers","PyPDF","PaddleOCR","PostgreSQL"],
       link : "https://github.com/CherupallyRaviteja/AHRAGS"
     },
+ 
+    {
+      title: "AI-Powered E-commerce Chatbot ",
+      desc: "Developed an AI-powered e-commerce assistant capable of answering product-related queries using structured product data and PDF documentation. Designed a planner-based architecture to route user queries between product search and document retrieval tools. Implemented dynamic product filtering, conversational memory, and REST APIs for seamless frontend-backend communication.",
+      tech: ["Python", "FastAPI", "React", "PostgreSQL", "Gemini API", "Groq", "LangChain", "JSON"],
+      link : "https://github.com/CherupallyRaviteja/ECommerce-Website-Chatbot"
+    },
+    {
+      title: "AI Trip Planner",
+      desc: "Built an AI travel assistant that generates personalized itineraries based on destination, budget, duration, and user preferences. Implemented memory-based conversations to retain user preferences and provide contextual travel recommendations. Integrated real-time weather information and external APIs to enhance itinerary planning. Developed a responsive React frontend and deployed the application using Vercel and Render. ",
+      tech: ["Python", "FastAPI", "React", "Gemini API", "OpenWeather API", "JSON"],
+      link : "https://github.com/CherupallyRaviteja/Trip-Planner"
+    },   
     {
       title: "Chatbot System for College Information Management",
       desc: "Developed a chatbot that answers student queries related to college information and academic resources. The system uses NLP techniques to understand questions and retrieve relevant information from a structured knowledge base.",
-      tech: [
-        "Python",
-        "NLP",
-        "LangChain",
-        "Ollama",
-        "Vector Database",
-        "BeautifulSoup"
-      ],
+      tech: ["Python","NLP","LangChain","Ollama","Vector Database","BeautifulSoup"],
       link : "https://github.com/CherupallyRaviteja/College-Chatbot"
     },
     {
       title: "Cursor Control Using Hand Gestures",
       desc: "Implemented a computer vision system that allows users to control the mouse cursor using hand gestures detected through a webcam. The system translates gestures into actions like cursor movement, clicking, and scrolling.",
-      tech: [
-        "Python",
-        "OpenCV",
-        "MediaPipe",
-        "NumPy",
-        "PyAutoGUI",
-        "Computer Vision"
-      ],
+      tech: ["Python","OpenCV","MediaPipe","NumPy","PyAutoGUI","Computer Vision"],
       link : "https://github.com/CherupallyRaviteja/cursor--control"
     }
   ]

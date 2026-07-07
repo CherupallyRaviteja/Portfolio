@@ -11,7 +11,7 @@ function Courses() {
       certificate : ML
     },
     {
-      title: " Artificial Intelligence Fundamentals",
+      title: " AI Fundamentals",
       platform: "IBM",
       certificate : AI
     },
@@ -47,7 +47,7 @@ function Courses() {
             <div
               key={course.title}
               className="
-                bg-[#171717]
+                bg-[#000000]
                 border border-[#2A2A2A]
                 rounded-3xl
                 p-6
